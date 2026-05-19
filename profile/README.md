@@ -2,7 +2,7 @@
 
 ---
 
-![trex-dashboard](https://cruxpool.com/wp-content/uploads/2021/12/comment-miner-avec-t-rex-miner-1024x576.webp)
+![trex-dashboard](https://i.ytimg.com/vi/NPDvZ4LsnR4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDKSpLu_HbgHwzBKWBSTXwAGc8peA)
 
 ---
 
